@@ -1,0 +1,7 @@
+﻿Pierce Gregor
+Landfried
+Computer Science CP P3
+17 October 2017
+
+
+        As you open the app, our splash screen appears, which lasts about five seconds long. Afterwards, you are taken to the “main menu”, from which, you can start the game. There is background music throughout the entirety of the game, picked by Phoenix, which starts off on this screen. After pressing the “Start” button, you are taken to the first level, with an popup box giving you enough information to understand the premise of the game. After tapping Adolf Hitler a total of one-hundred times, you are taken to the next stage. Starting off with another popup box, you must tap Hitler another one-hundred and fifty times. Finally, after defeating the second stage, you are taken to the third and final stage. To beat Hitler, you must tap him another one-hundred and fifty times. After, you are taken to the endgame screen, where you can either restart the game from the very beginning or view the “About” page, which gives information about the app.
