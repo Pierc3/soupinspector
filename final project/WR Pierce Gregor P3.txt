@@ -1,0 +1,9 @@
+﻿Pierce Gregor
+Landfried
+Computer Science P3
+17 October 2017
+
+
+        The app proved to relatively easy to develop, but was no simple task. One of our first difficulties was brainstorming the app, and finding the resources to develop. Originally, our app involved using the smartphone’s camera to detect heat signatures of soup. This could not work, however, as smartphones do not come equipped with a thermal lens. So, after some thinking, we decided on a game about tapping on a sprite-form of Adolf Hitler.
+        Our next major difficulty was developing the art assets. Phoenix and I were able to come up with different forms of Hitler, which eventually led to the premise of each stage in the game. However, the sprites did not compress very well, making it hard to fit within the ten megabyte limit in MIT’s App Inventor Studio. However, Phoenix was able to compress the files to a level quality that passed and fit under the ten megabyte limit.
+        After this, another major task was reformatting the entire app, after finding out the only way to introduce a “splash screen” to the app was to let that screen be the very first screen that the game opens up to. Originally, the game had opened up to the main-menu screen, and you could start from there. However, after realizing that the splash screen was one of the requirements for the app, we needed to find a way to add our very own to our game. The only method to accomplish this was to revamp our main-menu screen, develop and design our splash screen on what was once the main-menu screen, and then move our main-menu screen to an entirely different screen. This took some time, and a little difficulty and troubleshooting, but was feasible in the end.
